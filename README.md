@@ -59,7 +59,7 @@ Testing was done with Google Chrome developer tools and manually on different br
 * [Help pop-up](images/helpWireframe.png)
 
  ## Deployment
-The website is published on github page at https://andriusci.github.io/Interactive-Front-End/
+The website is published on github page at https://andybandy.github.io/Interactive-Front-End/
 
 #### Deployment procedure
  From the repository:

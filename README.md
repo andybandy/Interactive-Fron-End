@@ -55,9 +55,9 @@ Testing was done with Google Chrome developer tools and manually on different br
 * Samsung Galaxy Note 8 (Chrome)
 
 ## Wireframes 
-* [Webpage](https://ibb.co/jhGzB7C)
-* [Help pop-up](https://ibb.co/g30zC9g)
 
+* [Webpage](https://ibb.co/g30zC9g)
+* [Help pop-up](https://ibb.co/jhGzB7C)
  ## Deployment
 The website is published on github page at  https://andybandy.github.io/Interactive-Fron-End/
 
